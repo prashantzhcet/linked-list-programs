@@ -1,1 +1,1 @@
-These are some basic programs on linked list.
+Some Basic algorithms and programs. 
